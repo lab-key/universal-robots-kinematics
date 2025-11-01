@@ -24,7 +24,7 @@ The solution was built using Microsoft Visual Studio 2019, and C++ 20 standard.
 
 ## Dependencies
 
-### Eigen
+### Eigen v3.4.0
 
 [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
 
